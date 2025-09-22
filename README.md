@@ -1,6 +1,6 @@
-# Wine-Reviews-ML
+# Brazilian-E-Commerce-ML
 Репозиторий для решения задач классического машинного обучения.
-Датасет - [Wine Reviews](https://www.kaggle.com/datasets/zynicide/wine-reviews)
+Датасет - [Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ### Задачи
 1. Классификация
